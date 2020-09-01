@@ -7,8 +7,6 @@ Template for native apps based on React and Electron
 3. Go to the app's folder: ```cd electron-react-boilerplate```
 4. Install all needed packages: ```npm install```
 
-<ul>
-<li>If you want to start app in dev mode, you can use ```npm start``` command.</li>
-<li>If you would like to start app in prod mode locally without building it for your platform, you can use ```npm run prod``` command.</li>
-<li>If you want to build app for your platform, you should use ```npm run package-win/mac/linux``` command (choose version for your platform)</li>
-</ul>
+* If you want to start app in dev mode, you can use ```npm start``` command
+* If you would like to start app in prod mode locally without building it for your platform, you can use ```npm run prod``` command
+* If you want to build app for your platform, you should use ```npm run package-win/mac/linux``` command (choose version for your platform)
