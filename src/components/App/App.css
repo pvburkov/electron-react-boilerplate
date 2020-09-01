@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.counter {
+  margin-left: 15px;
+}
+
+.counter > h1 {
+  margin-bottom: 10px;
+}
+
+.counter__number {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.counter__button {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+  color: white;
+  background-color: navy;
+  border-radius: 8px;
+}
